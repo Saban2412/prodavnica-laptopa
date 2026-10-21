@@ -9,10 +9,17 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
+<<<<<<< HEAD
     <artifactId>prodavnica_laptopa</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>prodavnica_laptopa</name>
     <description>prodavnica_laptopa</description>
+=======
+    <artifactId>demo</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>demo</name>
+    <description>demo</description>
+>>>>>>> origin/feature/delila
     <url/>
     <licenses>
         <license/>
